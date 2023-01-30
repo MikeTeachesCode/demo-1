@@ -2,6 +2,6 @@
 *.py
 *.csv
 *.txt
-!PRIVATE_DATA/
-!PRIVATE_DATA/forms.csv
-PRIVATE_DATA/*
+#!PRIVATE_DATA/
+#!PRIVATE_DATA/forms.csv
+#PRIVATE_DATA/*
