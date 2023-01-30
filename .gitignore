@@ -1,4 +1,4 @@
-/PRIVATE_DATA/*.
+/PRIVATE_DATA/*.csv
 
 !forms.csv
 .env
