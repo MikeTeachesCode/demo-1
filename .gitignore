@@ -1,7 +1,6 @@
-/PRIVATE_DATA/*.csv
-
-!forms.csv
+/PRIVATE_DATA/*
 .env
 *.py
 *.csv
 *.txt
+!forms.csv
