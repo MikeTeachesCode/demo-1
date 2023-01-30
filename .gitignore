@@ -1,0 +1,7 @@
+/PRIVATE_DATA/*.
+
+!forms.csv
+.env
+*.py
+*.csv
+*.txt
