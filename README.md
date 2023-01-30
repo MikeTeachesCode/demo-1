@@ -13,3 +13,4 @@
 - Chicken
 - Lambs
 - Ducks
+- Foxes are like ginger colored dogs!
