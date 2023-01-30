@@ -3,4 +3,4 @@ PRIVATE_DATA/*
 *.py
 *.csv
 *.txt
-!forms.csv
+!PRIVATE_DATA/forms.csv
